@@ -1,0 +1,17 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e2edff;
+}
+
+svg {
+  margin-bottom: -1px;
+}
+
+.bg-section {
+  background-color: #e2edff;
+}
+
+section {
+  scroll-margin-top: 5rem;
+  /* Atau kalau cara tradisional pakai padding-top */
+}
